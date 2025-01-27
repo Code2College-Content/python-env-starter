@@ -1,5 +1,5 @@
 # C2C Elite 101 Python Environment
-
+ 
 This project provides a Python development environment pre-configured for use with [GitHub Codespaces](https://docs.github.com/en/codespaces). Students can create Codespaces from this repository whenever they need to code in Python for this course
 
 ## Getting Started
